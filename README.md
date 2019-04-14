@@ -1,1 +1,1 @@
-# product-advert-app using vue
+# product-advert-app
